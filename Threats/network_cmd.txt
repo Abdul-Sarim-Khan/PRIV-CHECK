@@ -1,0 +1,3 @@
+ifconfig
+ip route show
+netsh wlan show profile

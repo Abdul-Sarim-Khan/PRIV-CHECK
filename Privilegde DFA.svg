@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 6958.3 2652.1" style="enable-background:new 0 0 6958.3 2652.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st1{stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:15.165px;}
+	.st4{fill:none;stroke:#FF5252;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st5{fill:#FF5252;stroke:#FF5252;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st6{fill:none;stroke:#7E57C2;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st7{fill:#7E57C2;stroke:#7E57C2;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st8{font-size:14.6069px;}
+	.st9{fill:none;stroke:#FF7043;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st10{fill:#FF7043;stroke:#FF7043;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st11{font-size:14.4076px;}
+	.st12{fill:none;stroke:#66BB6A;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st13{fill:#66BB6A;stroke:#66BB6A;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st14{fill:#90CAF9;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st15{font-family:'Arial-BoldMT';}
+	.st16{font-size:19.4978px;}
+	.st17{fill:none;stroke:#42A5F5;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st18{fill:#42A5F5;stroke:#42A5F5;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st19{font-size:14.8538px;}
+	.st20{fill:none;stroke:#008000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st21{fill:#008000;stroke:#008000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st22{font-size:14.8935px;}
+	.st23{fill:none;stroke:#D3D3D3;stroke-width:11.1137;stroke-miterlimit:44.4547;stroke-dasharray:55.5683,22.2273;}
+	.st24{fill:#D3D3D3;stroke:#D3D3D3;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st25{font-size:14.9605px;}
+	.st26{font-size:14.5803px;}
+	.st27{font-size:14.144px;}
+	.st28{font-size:13.9637px;}
+	.st29{fill:none;stroke:#FF5252;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st30{fill:#FF5252;stroke:#FF5252;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st31{font-size:12.7868px;}
+	.st32{font-size:14.4689px;}
+	.st33{font-size:14.1149px;}
+	.st34{font-size:13.9834px;}
+	.st35{font-size:14.2099px;}
+	.st36{fill:none;stroke:#7E57C2;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st37{fill:#7E57C2;stroke:#7E57C2;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st38{font-size:12.7218px;}
+	.st39{font-size:14.59px;}
+	.st40{font-size:12.9475px;}
+	.st41{font-size:14.0154px;}
+	.st42{font-size:13.8302px;}
+	.st43{fill:none;stroke:#FF7043;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st44{fill:#FF7043;stroke:#FF7043;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st45{font-size:13.3839px;}
+	.st46{font-size:14.1902px;}
+	.st47{fill:none;stroke:#66BB6A;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st48{fill:#66BB6A;stroke:#66BB6A;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st49{font-size:14.137px;}
+	.st50{font-size:14.3105px;}
+	.st51{fill:none;stroke:#42A5F5;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st52{fill:#42A5F5;stroke:#42A5F5;stroke-width:22.2273;stroke-miterlimit:44.4547;}
+	.st53{fill:none;stroke:#808080;stroke-width:11.1137;stroke-miterlimit:44.4547;stroke-dasharray:55.5683,22.2273;}
+	.st54{fill:#808080;stroke:#808080;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st55{font-size:14.1096px;}
+	.st56{font-size:13.4527px;}
+	.st57{font-size:14.1365px;}
+	.st58{font-size:14.7949px;}
+	.st59{font-size:14.2626px;}
+	.st60{font-size:13.8747px;}
+	.st61{fill:none;stroke:#FFA000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st62{fill:#FFA000;stroke:#FFA000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st63{font-size:14.6872px;}
+	.st64{fill:none;stroke:#F44336;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st65{fill:#F44336;stroke:#F44336;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st66{font-size:14.9486px;}
+	.st67{font-size:15.1179px;}
+	.st68{fill:none;stroke:#0000FF;stroke-width:11.1137;stroke-miterlimit:44.4547;stroke-dasharray:11.1137,55.5683;}
+	.st69{fill:#0000FF;stroke:#0000FF;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st70{fill:#E3F2FD;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st71{fill:#BBDEFB;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st72{font-size:23.8307px;}
+	.st73{fill:#FFCDD2;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st74{fill:#E1BEE7;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st75{fill:#FF8A65;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st76{fill:#C8E6C9;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st77{fill:#81C784;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st78{fill:#FFFFFF;}
+	.st79{fill:#66BB6A;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st80{font-size:17.3314px;}
+	.st81{fill:#F44336;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st82{fill:#FFB74D;stroke:#000000;stroke-width:11.1137;stroke-miterlimit:44.4547;}
+	.st83{font-size:21.6642px;}
+</style>
+<g id="edge1">
+	<path class="st0" d="M37,2228.1c-5.5-463.7,0.9-493.3,399.4-982.6"/>
+	<polygon class="st1" points="432.5,1243 444.3,1235.7 439.7,1248.7 	"/>
+	<text transform="matrix(1.0155 0 0 1 239.083 1670.5068)" class="st2 st3">input</text>
+</g>
+<path class="st4" d="M490.7,1266c-27.5,448.5-2.2,498.9,423.2,1167"/>
+<polygon class="st5" points="922.3,2438.1 925.4,2451.5 914.5,2443 "/>
+<text transform="matrix(1.0155 0 0 1 675.8135 2025.3574)" class="st2 st3">&apos;s&apos;</text>
+<g id="edge7">
+	<path class="st6" d="M545.2,1236.7c67.7,87.7,111.4,116.9,348,259.9"/>
+	<polygon class="st7" points="894.9,1492.5 903.4,1502.8 890.2,1500 	"/>
+	<text transform="matrix(1.0155 0 0 1 725.1235 1520.9902)" class="st2 st8">&apos;c&apos;</text>
+</g>
+<g id="edge14">
+	<path class="st9" d="M561.5,1195.5c71.6,25.5,116.9,34,320.4,67.2"/>
+	<polygon class="st10" points="882,1258.4 893.7,1264.7 880.6,1266.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 724.7036 1284.5352)" class="st2 st11">&apos;r&apos;</text>
+</g>
+<g id="edge19">
+	<path class="st12" d="M518.6,1097.5c63.5-148,104.5-182.1,378.2-375.9"/>
+	<polygon class="st13" points="893.9,718.1 907.3,714.2 899.3,725.5 	"/>
+	<text transform="matrix(1.0155 0 0 1 719.6978 592.9014)" class="st2 st3">&apos;u&apos;</text>
+</g>
+<g id="node24">
+	<ellipse class="st14" cx="954.1" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 947.5063 283.7769)" class="st15 st16">S</text>
+</g>
+<g id="edge27">
+	<path class="st17" d="M503.2,1077.4c22.6-310.3,52.7-352.9,405-743.8"/>
+	<polygon class="st18" points="904.6,330.9 916.6,324.4 911.4,336.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 727.2935 232.3691)" class="st2 st19">&apos;s&apos;</text>
+</g>
+<g id="edge56">
+	<path class="st20" d="M513.6,1079.3c88.7-482.6,120.5-523.7,629-913.9"/>
+	<polygon class="st21" points="1139.1,162.4 1152.1,158.1 1144.7,169.5 	"/>
+	<text transform="matrix(1.0155 0 0 1 719.2109 110.9985)" class="st2 st22">EOF</text>
+</g>
+<g id="edge50">
+	<path class="st23" d="M469.9,1236.7c-42.7,606.3-23,646.5,422.5,1182.9"/>
+	<polygon class="st24" points="915.3,2445.1 920,2457.9 908.2,2450.8 	"/>
+	<text transform="matrix(1.0155 0 0 1 717.6416 2504.584)" class="st2 st25">other</text>
+</g>
+<g id="edge3">
+	<path class="st4" d="M993,2520.7c125,36.7,155,35.6,423.3-3.3"/>
+	<polygon class="st5" points="1415.4,2513.1 1428.6,2515.6 1416.7,2521.8 	"/>
+	<text transform="matrix(1.0155 0 0 1 1206.0732 2506.2324)" class="st2 st26">&apos;u&apos;</text>
+</g>
+<g id="edge4">
+	<path class="st4" d="M1534.7,2523c172.3,65.6,196.6,67.5,351.9,5.9"/>
+	<polygon class="st5" points="1884.1,2525.3 1897.2,2524.7 1887.4,2533.1 	"/>
+	<text transform="matrix(1.0155 0 0 1 1710.4502 2506.2324)" class="st2 st27">&apos;d&apos;</text>
+</g>
+<g id="edge5">
+	<path class="st4" d="M2006.6,2505.1c221.8-16.7,254.2-21.7,342.2-81.3"/>
+	<polygon class="st5" points="2346.1,2420.5 2358.5,2417.1 2350.9,2427.4 	"/>
+	<text transform="matrix(1.0155 0 0 1 2172.2363 2456.7402)" class="st2 st28">&apos;o&apos;</text>
+</g>
+<g id="edge6">
+	<path class="st29" d="M2468.2,2385.1c173.1-8.2,234.8-11.5,291.3-22.5"/>
+	<polygon class="st30" points="2758.2,2359 2769.9,2360.5 2759.8,2366.5 	"/>
+	<text transform="matrix(1.0155 0 0 1 2605.0859 2350.9102)" class="st2 st31">space</text>
+</g>
+<path class="st23" d="M540.6,1242.6c67.3,105,108.4,130.4,347.2,254.7"/>
+<polygon class="st24" points="889.6,1493.3 898.7,1502.9 885.5,1501 "/>
+<text transform="matrix(1.0155 0 0 1 717.292 1374.4785)" class="st2 st32">other</text>
+<path class="st6" d="M1001.7,1540.4c109.9,11.2,141.9,14.7,413.5,45.3"/>
+<polygon class="st7" points="1415.1,1581.3 1427,1587 1414.1,1589.8 "/>
+<text transform="matrix(1.0155 0 0 1 1213.6533 1593.8125)" class="st2 st3">&apos;h&apos;</text>
+<g id="edge9">
+	<path class="st6" d="M1534.1,1609.1c89.3,32.5,119.6,39.4,347.4,83.8"/>
+	<polygon class="st7" points="1881.8,1688.6 1893,1695.1 1880.1,1696.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 1707.1924 1687.5781)" class="st2 st33">&apos;m&apos;</text>
+</g>
+<g id="edge10">
+	<path class="st6" d="M2000.2,1728.9c107.5,50.2,133.1,51.2,336.9,21.6"/>
+	<polygon class="st7" points="2336.3,1746.4 2349,1748.8 2337.6,1754.7 	"/>
+	<text transform="matrix(1.0155 0 0 1 2169.1064 1715.7852)" class="st2 st34">&apos;o&apos;</text>
+</g>
+<g id="edge11">
+	<path class="st6" d="M2460.5,1754.7c254.9,81.3,293.8,93.8,386.9,124.4"/>
+	<polygon class="st7" points="2848.3,1874.9 2858.6,1882.8 2845.5,1883 	"/>
+	<text transform="matrix(1.0155 0 0 1 2626.8594 1794.8945)" class="st2 st35">&apos;d&apos;</text>
+</g>
+<g id="edge12">
+	<path class="st36" d="M2971.4,1911c270.2,21.2,318.6,24.3,415.7,16.1"/>
+	<polygon class="st37" points="3386.6,1923.3 3398.7,1926 3387.4,1930.9 	"/>
+	<text transform="matrix(1.0745 0 0 1 3167.7002 1910.7109)" class="st2 st38">space + [0-7]{3}</text>
+</g>
+<g id="edge13">
+	<path class="st36" d="M3564.2,1924.9c235.8,8.9,307.2,11.2,385.6,6.7"/>
+	<polygon class="st37" points="3948.6,1928 3960.7,1931 3949.1,1935.5 	"/>
+</g>
+<g id="edge52">
+	<path class="st23" d="M561.9,1193.2c72.3,24.8,118.4,33.6,324,68.5"/>
+	<polygon class="st24" points="886,1257.3 897.8,1263.7 884.5,1265.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 715.1934 1167.4014)" class="st2 st39">other</text>
+</g>
+<g id="edge15">
+	<path class="st9" d="M1001.6,1279.3c109,6.1,140.7,5.8,409.3-0.8"/>
+	<polygon class="st10" points="1410,1274.6 1422.4,1278.2 1410.3,1282.4 	"/>
+	<text transform="matrix(1.108 0 0 1 1205.0645 1274.2617)" class="st2 st40">&apos;m&apos;</text>
+</g>
+<g id="edge16">
+	<path class="st9" d="M1534.5,1293c191.3,61.1,217.3,64.1,348.8,9.1"/>
+	<polygon class="st10" points="1881.5,1298.2 1894.4,1297.4 1884.9,1305.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 1683.0371 1278.5156)" class="st2 st41">space + &apos;-&apos;</text>
+</g>
+<g id="edge17">
+	<path class="st9" d="M2003.7,1277.4c213.1,5.8,252,6.5,328.9,2.2"/>
+	<polygon class="st10" points="2332.2,1275.5 2344.4,1278.9 2332.7,1283.8 	"/>
+	<text transform="matrix(1.0155 0 0 1 2168.8281 1273.2803)" class="st2 st42">&apos;r&apos;</text>
+</g>
+<g id="edge18">
+	<path class="st43" d="M2461.8,1265.7c192.5-48.3,256.1-64.9,316-92.4"/>
+	<polygon class="st44" points="2775.5,1170 2787.8,1168.6 2779,1177.2 	"/>
+	<text transform="matrix(1.0155 0 0 1 2619.8457 1179.3809)" class="st2 st45">&apos;f&apos;</text>
+</g>
+<g id="edge53">
+	<path class="st23" d="M515.8,1094.9C581.5,922,619.3,891.6,895,719"/>
+	<polygon class="st24" points="891.9,715.6 905.5,712.5 896.8,723.3 	"/>
+	<text transform="matrix(1.0155 0 0 1 709.3687 714.2207)" class="st2 st3">other</text>
+</g>
+<path class="st12" d="M998.6,678.7c108.7-4.8,140.9-4.6,410.4,0.7"/>
+<polygon class="st13" points="1408.3,675.1 1420.6,679.6 1408.1,683.6 "/>
+<text transform="matrix(1.0155 0 0 1 1208.9121 657.1201)" class="st2 st3">&apos;s&apos;</text>
+<path class="st12" d="M1537.4,679c89.9-6.4,120.8-6.1,343.7,1.1"/>
+<polygon class="st13" points="1880.9,675.8 1893,680.4 1880.6,684.3 "/>
+<text transform="matrix(1.0155 0 0 1 1711.5928 657.1211)" class="st2 st3">&apos;e&apos;</text>
+<path class="st12" d="M2006.4,676.7c88.3-14.8,117.6-14,328.8,2.3"/>
+<polygon class="st13" points="2335.5,674.9 2347.1,679.9 2334.8,683.1 "/>
+<text transform="matrix(1.0155 0 0 1 2178.5957 638.5771)" class="st2 st3">&apos;r&apos;</text>
+<g id="edge23">
+	<path class="st12" d="M2462.4,679.1c244.8-33.6,281.4-36.7,382.9-9.2"/>
+	<polygon class="st13" points="2846.4,665.7 2857.1,673.1 2844.1,673.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 2626.2773 681.0117)" class="st2 st46">&apos;a&apos;</text>
+</g>
+<path class="st12" d="M2966.1,682c304-10.7,345.7-11.6,459.4-2.9"/>
+<polygon class="st13" points="3425.3,674.8 3437.4,680.1 3424.6,683.4 "/>
+<text transform="matrix(1.0155 0 0 1 3210.4648 642.752)" class="st2 st3">&apos;d&apos;</text>
+<path class="st12" d="M3547.3,680.7c321.2-6.2,363.3-6.7,483.5-1.6"/>
+<polygon class="st13" points="4030.3,674.7 4042.7,679.6 4030,683.4 "/>
+<text transform="matrix(1.0155 0 0 1 3772.1387 655.8809)" class="st2 st3">&apos;d&apos;</text>
+<g id="edge26">
+	<path class="st47" d="M4151.8,704.5c247.5,94.3,309.5,119.4,381.9,180.7"/>
+	<polygon class="st48" points="4535.9,881.7 4542,892.4 4530.5,887.8 	"/>
+</g>
+<g id="edge54">
+	<path class="st23" d="M502.7,1077.1c24.5-375.5,50.3-412.3,402.4-746.4"/>
+	<polygon class="st24" points="901.9,327.6 914.3,322 908.2,334 	"/>
+	<text transform="matrix(1.0155 0 0 1 716.7534 351.1987)" class="st2 st19">other</text>
+</g>
+<path class="st17" d="M994.7,275.2c111-4.4,143.8-4.2,418.8,0.6"/>
+<polygon class="st18" points="1412.9,271.5 1425.4,276 1412.7,280.2 "/>
+<text transform="matrix(1.0155 0 0 1 1215.7402 254.7788)" class="st2 st3">&apos;y&apos;</text>
+<path class="st17" d="M1536.5,273.1c90.4-4.9,121.6-4.6,346.4,0.8"/>
+<polygon class="st18" points="1882.7,269.7 1894.9,274.3 1882.5,278.2 "/>
+<text transform="matrix(1.0155 0 0 1 1715.0312 257.9639)" class="st2 st3">&apos;s&apos;</text>
+<path class="st17" d="M2004.3,273.5c88-7.3,118.9-6.8,336.6,1.3"/>
+<polygon class="st18" points="2341,270.5 2353.1,275.2 2340.7,279 "/>
+<text transform="matrix(1.0155 0 0 1 2172.6162 252.96)" class="st2 st49">&apos;t&apos;</text>
+<path class="st17" d="M2460,271.4c105.2-19.1,135.8-18.2,384.4,2.4"/>
+<polygon class="st18" points="2844.3,269.6 2856.3,274.9 2843.6,278.1 "/>
+<text transform="matrix(1.0155 0 0 1 2630.3828 231.5449)" class="st2 st3">&apos;e&apos;</text>
+<g id="edge32">
+	<path class="st17" d="M2965.2,269.2c294.9-47.9,330.8-51.3,461.8-10.2"/>
+	<polygon class="st18" points="3428.2,254.9 3438.7,262.8 3425.5,263.1 	"/>
+	<text transform="matrix(1.0155 0 0 1 3216.7246 272.0381)" class="st2 st50">&apos;m&apos;</text>
+</g>
+<path class="st17" d="M3548,276.5c317.2-13.1,358.9-14.3,478.6-3.4"/>
+<polygon class="st18" points="4026.5,268.8 4038.6,274.2 4025.7,277.3 "/>
+<text transform="matrix(1.0155 0 0 1 3780.4062 237.6313)" class="st2 st3">&apos;c&apos;</text>
+<path class="st17" d="M4151.7,275.8c285.7-6.8,327.1-7.4,432.7-2"/>
+<polygon class="st18" points="4584.4,269.6 4596.6,274.5 4584,278.1 "/>
+<text transform="matrix(1.0155 0 0 1 4375.4531 250.124)" class="st2 st3">&apos;t&apos;</text>
+<path class="st17" d="M4708.6,275.3c227.3-3.9,267.1-4.4,349.4-1.4"/>
+<polygon class="st18" points="5057.5,269.6 5069.7,274.3 5057.2,278.1 "/>
+<text transform="matrix(1.0155 0 0 1 4920.6523 313.1172)" class="st2 st3">&apos;l&apos;</text>
+<g id="edge36">
+	<path class="st51" d="M5169.4,290.4C5506.8,414,5584.5,444,5683.8,527.2"/>
+	<polygon class="st52" points="5686.6,523.6 5693.6,535.5 5680.6,530.4 	"/>
+	<text transform="matrix(1.0155 0 0 1 5330.7871 286.1606)" class="st2 st3">space + (start|stop|restart)</text>
+</g>
+<g id="edge45">
+	<path class="st53" d="M563.5,1174c1118.9,44.1,1167.8,64.5,2268.3,1072.6"/>
+	<polygon class="st54" points="2834.2,2242.6 2840.7,2254.8 2827.9,2249.2 	"/>
+	<text transform="matrix(1.0155 0 0 1 1693.9287 2136.2871)" class="st2 st3">continue</text>
+</g>
+<g id="edge39">
+	<path class="st29" d="M3041.9,2342.4c846.8,98.9,896.9,86.5,1520.2-345.6"/>
+	<polygon class="st30" points="4558.8,1993.8 4571.7,1990.1 4564.1,2000.6 	"/>
+	<text transform="matrix(1.0538 0 0 1 3760.4014 2298.7793)" class="st2 st55">Priv</text>
+	<text transform="matrix(1.0538 0 0 1 3760.8125 2315.4062)" class="st2 st55">Esc</text>
+</g>
+<g id="edge46">
+	<path class="st53" d="M563.5,1162.7C2582.7,901.1,2643,905.4,4008,1851.6"/>
+	<polygon class="st54" points="4010.2,1847.6 4018.3,1858.8 4004.9,1855 	"/>
+	<text transform="matrix(1.0155 0 0 1 2154.2959 1947.8086)" class="st2 st3">continue</text>
+</g>
+<g id="edge40">
+	<path class="st36" d="M4215.8,1938.7c197.1,31.8,243.3,34.4,334.4,7.7"/>
+	<polygon class="st37" points="4548.5,1942.7 4560.9,1943.2 4550.9,1950.4 	"/>
+	<text transform="matrix(1.0155 0 0 1 4362.3613 1905.0254)" class="st2 st56">File</text>
+	<text transform="matrix(1.0155 0 0 1 4357.0488 1920.8789)" class="st2 st56">Perm</text>
+</g>
+<g id="edge47">
+	<path class="st53" d="M561.2,1144.6c1123.1-467.8,1179.3-475.8,2246-81.6"/>
+	<polygon class="st54" points="2808.3,1058.5 2819,1067.4 2805,1067.1 	"/>
+	<text transform="matrix(1.0155 0 0 1 1693.9287 1092.0703)" class="st2 st3">continue</text>
+</g>
+<g id="edge41">
+	<path class="st43" d="M3030.1,1072.9c214.2-61.3,268.8-50.2,634.5,79.4"/>
+	<polygon class="st44" points="3665.8,1148.2 3675.9,1156.3 3662.9,1156.2 	"/>
+	<text transform="matrix(1.0155 0 0 1 3195.9824 1104.5859)" class="st2 st57">Destructive</text>
+	<text transform="matrix(1.0155 0 0 1 3216.7266 1121.2471)" class="st2 st57">Cmd</text>
+</g>
+<g id="edge48">
+	<path class="st53" d="M562.2,1191.4c2181.1,667.8,2241.4,672.9,3992.7-157.2"/>
+	<polygon class="st54" points="4552.9,1030 4566.8,1028.5 4556.9,1038.3 	"/>
+	<text transform="matrix(1.0155 0 0 1 2385.1699 858.0977)" class="st2 st3">continue</text>
+</g>
+<g id="edge37">
+	<path class="st47" d="M4765.7,991.5c977,81.9,1046.7,90.8,1443.2,218"/>
+	<polygon class="st48" points="6209.7,1205.1 6220.6,1213.3 6207,1213.6 	"/>
+	<text transform="matrix(1.0155 0 0 1 5388.7529 1213.7871)" class="st2 st58">User</text>
+	<text transform="matrix(1.0155 0 0 1 5385.833 1231.2246)" class="st2 st58">Mgmt</text>
+</g>
+<g id="edge49">
+	<path class="st53" d="M562.2,1188.5c2739.2,719.5,2800.2,721.1,5106.2-513.9"/>
+	<polygon class="st54" points="5666.1,670.7 5679.9,668.5 5670.5,678.7 	"/>
+	<text transform="matrix(1.0155 0 0 1 2889.3672 452.9751)" class="st2 st3">continue</text>
+</g>
+<g id="edge38">
+	<path class="st51" d="M5873.1,675.9c295.3,196.2,328.3,232.7,401.1,456.8"/>
+	<polygon class="st52" points="6278.2,1131.1 6277.9,1144.1 6270,1133.7 	"/>
+	<text transform="matrix(1.0155 0 0 1 6039.7393 895.6475)" class="st2 st59">System</text>
+	<text transform="matrix(1.0155 0 0 1 6052.623 912.457)" class="st2 st59">Ctrl</text>
+</g>
+<g id="edge42">
+	<path class="st12" d="M6393,1261.7c190,40.2,246.9,53.5,310.3,81.4"/>
+	<polygon class="st13" points="6704.9,1339.3 6714.1,1348.1 6701.4,1346.9 	"/>
+	<text transform="matrix(1.0155 0 0 1 6538.2598 1311.6641)" class="st2 st60">Low</text>
+</g>
+<g id="edge43">
+	<path class="st61" d="M4733.6,1908.8c1362.7-174.7,1439.3-187.6,1975.9-460.3"/>
+	<polygon class="st62" points="6707.3,1444.6 6721,1442.6 6711.6,1452.4 	"/>
+	<text transform="matrix(1.035 0 0 1 5759.0332 1840.0332)" class="st2 st63">Med</text>
+</g>
+<g id="edge44">
+	<path class="st64" d="M3862.6,1194.8c1955.2,87.1,2040.2,91.5,2832.1,182.1"/>
+	<polygon class="st65" points="6694.9,1372.3 6707.3,1378.3 6693.9,1381.3 	"/>
+	<text transform="matrix(1.0155 0 0 1 5116.1592 1530.1367)" class="st2 st66">High</text>
+</g>
+<g id="edge57">
+	<path class="st20" d="M1292.2,93.6C4774.3-54.1,4836-47.2,6719.9,1324"/>
+	<polygon class="st21" points="6722.5,1320.3 6730.4,1331.6 6717.1,1327.6 	"/>
+	<text transform="matrix(1.0155 0 0 1 3756.4414 93.1543)" class="st2 st67">safe</text>
+</g>
+<g id="edge55">
+	<path class="st68" d="M500.7,1085.3L500.7,1085.3"/>
+	<polygon class="st69" points="509.7,1064.3 501.1,1082 496.8,1063 	"/>
+</g>
+<g id="node1">
+	<ellipse class="st70" cx="37.3" cy="2252.4" rx="23.8" ry="23.4"/>
+</g>
+<g id="node2">
+	<ellipse class="st71" cx="496.9" cy="1171.4" rx="66.2" ry="65.2"/>
+	<text transform="matrix(1.0155 0 0 1 462.5801 1179.3779)" class="st15 st72">SCAN</text>
+</g>
+<g id="node3">
+	<ellipse class="st73" cx="954.1" cy="2508" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 947.5063 2515.1934)" class="st15 st16">S</text>
+</g>
+<g id="node7">
+	<ellipse class="st74" cx="954.1" cy="1535.3" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 946.96 1542.4707)" class="st15 st16">C</text>
+</g>
+<g id="node13">
+	<ellipse class="st75" cx="954.1" cy="1275.3" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 946.96 1282.499)" class="st15 st16">R</text>
+</g>
+<g id="node17">
+	<ellipse class="st76" cx="954.1" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 946.96 688.8994)" class="st15 st16">U</text>
+</g>
+<g id="node41">
+	<ellipse class="st77" cx="1221.8" cy="96.8" rx="60.9" ry="60"/>
+	<ellipse class="st0" cx="1221.8" cy="96.8" rx="69.7" ry="68.7"/>
+	<text transform="matrix(1.0155 0 0 1 1187.7393 103.9634)" class="st78 st15 st16">CLEAN</text>
+</g>
+<g id="node4">
+	<ellipse class="st73" cx="1489.5" cy="2508" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1482.3936 2515.1934)" class="st15 st16">U</text>
+</g>
+<g id="node5">
+	<ellipse class="st73" cx="1956.5" cy="2508" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1949.3643 2515.1934)" class="st15 st16">D</text>
+</g>
+<g id="node6">
+	<ellipse class="st73" cx="2414.3" cy="2384.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2406.584 2391.707)" class="st15 st16">O</text>
+</g>
+<g id="node33">
+	<ellipse class="st79" cx="2918.5" cy="2326.1" rx="93.7" ry="92.3"/>
+	<ellipse class="st0" cx="2918.5" cy="2326.1" rx="102.5" ry="101"/>
+	<text transform="matrix(1.0155 0 0 1 2893.0547 2321.4082)" class="st15 st80">SUDO</text>
+	<text transform="matrix(1.0155 0 0 1 2871.0527 2342.5293)" class="st15 st80">DETECTED</text>
+</g>
+<g id="node8">
+	<ellipse class="st74" cx="1489.5" cy="1593.8" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1482.3936 1600.9639)" class="st15 st16">H</text>
+</g>
+<g id="node9">
+	<ellipse class="st74" cx="1956.5" cy="1708.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1948.2656 1715.7852)" class="st15 st16">M</text>
+</g>
+<g id="node10">
+	<ellipse class="st74" cx="2414.3" cy="1741.1" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2406.584 1748.2793)" class="st15 st16">O</text>
+</g>
+<g id="node11">
+	<ellipse class="st74" cx="2918.5" cy="1903.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2911.3301 1910.7617)" class="st15 st16">D</text>
+</g>
+<g id="node12">
+	<ellipse class="st74" cx="3500.9" cy="1918.8" rx="54.2" ry="53.4"/>
+	<text transform="matrix(1.0155 0 0 1 3472.3057 1925.9258)" class="st15 st16">PERM</text>
+</g>
+<g id="node34">
+	<ellipse class="st79" cx="4104.8" cy="1918.8" rx="93.7" ry="92.3"/>
+	<ellipse class="st0" cx="4104.8" cy="1918.8" rx="102.5" ry="101"/>
+	<text transform="matrix(1.0155 0 0 1 4071.5674 1914.1191)" class="st15 st80">CHMOD</text>
+	<text transform="matrix(1.0155 0 0 1 4057.3848 1935.2422)" class="st15 st80">DETECTED</text>
+</g>
+<g id="node14">
+	<ellipse class="st75" cx="1489.5" cy="1275.3" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1481.2969 1282.499)" class="st15 st16">M</text>
+</g>
+<g id="node15">
+	<ellipse class="st75" cx="1956.5" cy="1275.3" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1953.2158 1282.499)" class="st15 st16">-</text>
+</g>
+<g id="node16">
+	<ellipse class="st75" cx="2414.3" cy="1275.3" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2401.0879 1282.499)" class="st15 st16">RF</text>
+</g>
+<g id="node35">
+	<ellipse class="st79" cx="2918.5" cy="1104.2" rx="93.7" ry="92.3"/>
+	<ellipse class="st0" cx="2918.5" cy="1104.2" rx="102.5" ry="101"/>
+	<text transform="matrix(1.0155 0 0 1 2887.6865 1099.5449)" class="st15 st80">RM -RF</text>
+	<text transform="matrix(1.0155 0 0 1 2871.0527 1120.667)" class="st15 st80">DETECTED</text>
+</g>
+<g id="node18">
+	<ellipse class="st76" cx="1489.5" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1482.9414 688.8994)" class="st15 st16">S</text>
+</g>
+<g id="node19">
+	<ellipse class="st76" cx="1956.5" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1949.9092 688.8994)" class="st15 st16">E</text>
+</g>
+<g id="node20">
+	<ellipse class="st76" cx="2414.3" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2407.1348 688.8994)" class="st15 st16">R</text>
+</g>
+<g id="node21">
+	<ellipse class="st76" cx="2918.5" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2911.3301 688.8994)" class="st15 st16">A</text>
+</g>
+<g id="node22">
+	<ellipse class="st76" cx="3500.9" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 3493.7588 688.8994)" class="st15 st16">D</text>
+</g>
+<g id="node23">
+	<ellipse class="st76" cx="4104.8" cy="681.7" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 4097.6602 688.8994)" class="st15 st16">D</text>
+</g>
+<g id="node36">
+	<ellipse class="st79" cx="4663" cy="982.9" rx="93.7" ry="92.3"/>
+	<ellipse class="st0" cx="4663" cy="982.9" rx="102.5" ry="101"/>
+	<text transform="matrix(1.0155 0 0 1 4619.4785 978.2246)" class="st15 st80">USERADD</text>
+	<text transform="matrix(1.0155 0 0 1 4615.5684 999.3477)" class="st15 st80">DETECTED</text>
+</g>
+<g id="node25">
+	<ellipse class="st14" cx="1489.5" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1482.9414 283.7769)" class="st15 st16">Y</text>
+</g>
+<g id="node26">
+	<ellipse class="st14" cx="1956.5" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 1949.9092 283.7769)" class="st15 st16">S</text>
+</g>
+<g id="node27">
+	<ellipse class="st14" cx="2414.3" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2408.2373 283.7769)" class="st15 st16">T</text>
+</g>
+<g id="node28">
+	<ellipse class="st14" cx="2918.5" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 2911.877 283.7769)" class="st15 st16">E</text>
+</g>
+<g id="node29">
+	<ellipse class="st14" cx="3500.9" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 3492.6621 283.7769)" class="st15 st16">M</text>
+</g>
+<g id="node30">
+	<ellipse class="st14" cx="4104.8" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 4097.6602 283.7769)" class="st15 st16">C</text>
+</g>
+<g id="node31">
+	<ellipse class="st14" cx="4663" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 4656.9473 283.7769)" class="st15 st16">T</text>
+</g>
+<g id="node32">
+	<ellipse class="st14" cx="5131.8" cy="276.6" rx="39.6" ry="39"/>
+	<text transform="matrix(1.0155 0 0 1 5125.7832 283.7769)" class="st15 st16">L</text>
+</g>
+<g id="node37">
+	<ellipse class="st79" cx="5780.4" cy="614.6" rx="101.9" ry="100.3"/>
+	<ellipse class="st0" cx="5780.4" cy="614.6" rx="110.7" ry="109"/>
+	<text transform="matrix(1.0155 0 0 1 5727.1484 609.9326)" class="st15 st80">SYSTEMCTL</text>
+	<text transform="matrix(1.0155 0 0 1 5733.0137 631.0537)" class="st15 st80">DETECTED</text>
+</g>
+<g id="node39">
+	<ellipse class="st81" cx="4663" cy="1918.8" rx="55.2" ry="54.4"/>
+	<ellipse class="st0" cx="4663" cy="1918.8" rx="64" ry="63"/>
+	<text transform="matrix(1.0155 0 0 1 4643.4375 1914.1191)" class="st78 st15 st80">MED</text>
+	<text transform="matrix(1.0155 0 0 1 4641.9688 1935.2422)" class="st78 st15 st80">RISK</text>
+</g>
+<g id="node40">
+	<ellipse class="st81" cx="3778.7" cy="1188.7" rx="56.4" ry="55.5"/>
+	<ellipse class="st0" cx="3778.7" cy="1188.7" rx="65.2" ry="64.2"/>
+	<text transform="matrix(1.0155 0 0 1 3756.668 1184.0342)" class="st78 st15 st80">HIGH</text>
+	<text transform="matrix(1.0155 0 0 1 3757.6445 1205.1582)" class="st78 st15 st80">RISK</text>
+</g>
+<g id="node38">
+	<ellipse class="st81" cx="6324.8" cy="1240.7" rx="55.2" ry="54.4"/>
+	<ellipse class="st0" cx="6324.8" cy="1240.7" rx="64" ry="63"/>
+	<text transform="matrix(1.0155 0 0 1 6304.2598 1236.0283)" class="st78 st15 st80">LOW</text>
+	<text transform="matrix(1.0155 0 0 1 6303.7598 1257.1504)" class="st78 st15 st80">RISK</text>
+</g>
+<g id="node42">
+	<ellipse class="st82" cx="6819.2" cy="1388" rx="76.7" ry="75.6"/>
+	<ellipse class="st0" cx="6819.2" cy="1388" rx="85.5" ry="84.2"/>
+	<text transform="matrix(1.0155 0 0 1 6773.3711 1395.584)" class="st78 st15 st83">REPORT</text>
+</g>
+</svg>

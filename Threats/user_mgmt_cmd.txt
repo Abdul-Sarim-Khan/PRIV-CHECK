@@ -1,0 +1,4 @@
+
+adduser john
+usermod -aG sudo john
+net user alice Password123 /add

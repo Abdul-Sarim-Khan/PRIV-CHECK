@@ -1,0 +1,3 @@
+chmod 777 /etc/shadow
+chown root:admin /var/log/secure
+icacls C:\Secrets /grant Everyone:F

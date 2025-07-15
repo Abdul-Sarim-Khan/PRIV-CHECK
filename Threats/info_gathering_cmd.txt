@@ -1,0 +1,3 @@
+cat /etc/passwd
+type id_rsa
+whoami /priv
