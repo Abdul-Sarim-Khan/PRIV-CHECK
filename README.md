@@ -25,8 +25,8 @@ PrivCheck scans for the following types of privileged commands:
 
 ## 📁 Project Structure
 
-├── app.py # Streamlit interface
-├── detector.py # DFA-based matching engine
-├── patterns.py # Regex-based pattern library
-├── threats/ # Sample test scripts
-├── assets/ # Lottie animations, CSS
+├── app.py # Streamlit interface<br>
+├── detector.py # DFA-based matching engine<br>
+├── patterns.py # Regex-based pattern library<br>
+├── threats/ # Sample test scripts<br>
+├── assets/ # Lottie animations, CSS<br>
